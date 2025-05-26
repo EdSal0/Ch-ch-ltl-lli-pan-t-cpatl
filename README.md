@@ -1,4 +1,4 @@
-readme_md = """
+
 # Control de Dron Tello por Voz en Español
 
 Este proyecto permite controlar un dron **DJI Tello** usando comandos de voz en español, con retroalimentación hablada y funciones para tomar fotos y grabar videos directamente desde el dron.
@@ -27,7 +27,7 @@ Este proyecto permite controlar un dron **DJI Tello** usando comandos de voz en 
 - Dron DJI Tello conectado a la red Wi-Fi.
 
 ---
-
+¡Listo para volar con voz y estilo! 🚁🎤-
 ## Instalación
 
 1. Clonar este repositorio o copiar el script.
@@ -36,4 +36,4 @@ Este proyecto permite controlar un dron **DJI Tello** usando comandos de voz en 
 ```bash
 pip install djitellopy speechrecognition pyttsx3 opencv-python
 
-¡Listo para volar con voz y estilo! 🚁🎤-
+
